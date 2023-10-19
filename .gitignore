@@ -47,3 +47,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/gradlew
+/gradlew.bat
+/settings.gradle.kts
